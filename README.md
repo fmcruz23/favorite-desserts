@@ -1,6 +1,6 @@
 # Favorite Desserts
 
-Felicia -- ice cream
+Felicia -- Ice Cream
 
 
 Shale-- brownies
