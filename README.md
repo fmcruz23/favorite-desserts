@@ -1,6 +1,8 @@
 # Favorite Desserts
 
-Felicia -- ice cream is my favorite dessert
+
+Felicia -- Ice Cream
+
 
 
 Shale-- brownies
